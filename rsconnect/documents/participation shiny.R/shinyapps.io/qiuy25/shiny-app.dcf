@@ -1,0 +1,12 @@
+name: shiny-app
+title: shiny-app
+username:
+account: qiuy25
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 341742
+bundleId: 1369998
+url: https://qiuy25.shinyapps.io/shiny-app/
+when: 1526096135.78872
+asMultiple: FALSE
+asStatic: FALSE
