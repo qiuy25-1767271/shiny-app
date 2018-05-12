@@ -2,7 +2,7 @@ library(shiny)
 library(dplyr)
 library(rsconnect)
 ui <- fluidPage(
-  numericInput(inputId = "n", "Sample size", value = 30), 
+  numericInput(inputId = "n","sample", value = 30), 
   plotOutput(outputId = "hist")
 )
 server <- function(input, output) {
